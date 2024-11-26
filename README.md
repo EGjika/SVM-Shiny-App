@@ -3,6 +3,8 @@ This shiny app may help you understand the importance of the parameters when usi
 
 ![image](https://github.com/user-attachments/assets/8c478120-18c7-4891-9cb7-2537e50097a4)
 
+![image](https://github.com/user-attachments/assets/ef599183-f9df-4e9a-8c2a-e26d6e90be7d)
+
 ksvm:  A function from the kernlab package to fit an SVM model. It supports a variety of kernel functions and classification types.
 Inputs to ksvm:
 x and y:
